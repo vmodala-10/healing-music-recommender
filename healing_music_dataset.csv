@@ -1,0 +1,501 @@
+Pain,Tempo,Pitch,Mood,Raga
+Anxiety,Medium,High,Uplifting,Yaman
+Headache,Very Slow,Low,Hopeful,Hamsadhwani
+Chronic Pain,Slow,Low,Relaxed,Shree
+Insomnia,Fast,Medium,Meditative,Nilambari
+Stress,Medium,Low,Relaxed,Shree
+Chronic Pain,Fast,Low,Relaxed,Hamsadhwani
+Headache,Very Slow,High,Hopeful,Hamsadhwani
+Insomnia,Very Slow,High,Energetic,Yaman
+Insomnia,Slow,High,Calm,Kafi
+Chronic Pain,Fast,Low,Meditative,Todi
+Chronic Pain,Medium,High,Meditative,Todi
+Stress,Medium,High,Calm,Bhimpalasi
+Headache,Very Slow,Low,Sleepy,Bhimpalasi
+Muscle Ache,Slow,Low,Hopeful,Todi
+Insomnia,Fast,Medium,Uplifting,Desh
+Chronic Pain,Slow,High,Hopeful,Desh
+Headache,Very Slow,Medium,Uplifting,Yaman
+Insomnia,Medium,Low,Energetic,Yaman
+Headache,Very Slow,Medium,Meditative,Todi
+Headache,Very Slow,Medium,Hopeful,Bhimpalasi
+Insomnia,Medium,High,Hopeful,Shree
+Stress,Fast,High,Calm,Nilambari
+Insomnia,Fast,Low,Relaxed,Hamsadhwani
+Stress,Fast,High,Calm,Kafi
+Headache,Very Slow,Medium,Bright,Desh
+Chronic Pain,Very Slow,High,Sleepy,Yaman
+Muscle Ache,Medium,Low,Meditative,Todi
+Muscle Ache,Medium,High,Relaxed,Bhimpalasi
+Insomnia,Slow,Medium,Hopeful,Todi
+Anxiety,Medium,High,Uplifting,Yaman
+Anxiety,Fast,High,Calm,Hamsadhwani
+Stress,Medium,Low,Bright,Madhyamavati
+Stress,Medium,High,Uplifting,Yaman
+Chronic Pain,Medium,High,Meditative,Todi
+Muscle Ache,Slow,Medium,Hopeful,Todi
+Muscle Ache,Slow,Low,Calm,Desh
+Chronic Pain,Fast,Low,Calm,Shree
+Insomnia,Fast,Medium,Hopeful,Kafi
+Stress,Very Slow,High,Bright,Madhyamavati
+Stress,Very Slow,Low,Sleepy,Bhimpalasi
+Muscle Ache,Medium,Low,Energetic,Bhimpalasi
+Stress,Very Slow,Medium,Bright,Madhyamavati
+Muscle Ache,Very Slow,High,Calm,Desh
+Insomnia,Slow,Medium,Hopeful,Todi
+Chronic Pain,Slow,High,Energetic,Yaman
+Anxiety,Medium,Medium,Bright,Madhyamavati
+Muscle Ache,Fast,Medium,Energetic,Todi
+Chronic Pain,Slow,Medium,Uplifting,Kafi
+Insomnia,Fast,Low,Uplifting,Yaman
+Muscle Ache,Medium,Low,Energetic,Desh
+Headache,Fast,Medium,Sleepy,Desh
+Chronic Pain,Fast,High,Hopeful,Nilambari
+Insomnia,Slow,Medium,Sleepy,Nilambari
+Stress,Very Slow,Medium,Meditative,Todi
+Insomnia,Very Slow,Medium,Bright,Desh
+Insomnia,Slow,Low,Calm,Kafi
+Headache,Fast,High,Sleepy,Bhimpalasi
+Stress,Medium,Low,Meditative,Bhimpalasi
+Insomnia,Medium,Low,Uplifting,Nilambari
+Muscle Ache,Medium,Medium,Uplifting,Kafi
+Chronic Pain,Slow,High,Relaxed,Kafi
+Stress,Slow,High,Meditative,Nilambari
+Stress,Medium,High,Sleepy,Desh
+Anxiety,Slow,Low,Meditative,Bhimpalasi
+Headache,Slow,Low,Uplifting,Hamsadhwani
+Chronic Pain,Medium,High,Calm,Shree
+Stress,Medium,Medium,Energetic,Hamsadhwani
+Anxiety,Fast,Medium,Relaxed,Todi
+Insomnia,Medium,High,Energetic,Nilambari
+Stress,Very Slow,Medium,Relaxed,Shree
+Anxiety,Medium,Low,Hopeful,Yaman
+Muscle Ache,Fast,Medium,Bright,Todi
+Insomnia,Very Slow,Low,Hopeful,Shree
+Headache,Medium,Medium,Sleepy,Todi
+Chronic Pain,Very Slow,Medium,Meditative,Todi
+Chronic Pain,Slow,Medium,Sleepy,Kafi
+Insomnia,Slow,Low,Calm,Kafi
+Muscle Ache,Very Slow,Low,Bright,Shree
+Headache,Very Slow,Medium,Relaxed,Bhimpalasi
+Stress,Medium,Low,Calm,Yaman
+Headache,Very Slow,Low,Uplifting,Desh
+Anxiety,Slow,Medium,Meditative,Bhimpalasi
+Stress,Very Slow,High,Sleepy,Nilambari
+Chronic Pain,Slow,Low,Energetic,Todi
+Headache,Medium,Medium,Calm,Darbari Kanada
+Anxiety,Slow,Medium,Uplifting,Yaman
+Stress,Slow,Low,Meditative,Shree
+Headache,Very Slow,Low,Hopeful,Yaman
+Stress,Slow,Low,Uplifting,Yaman
+Stress,Medium,Low,Hopeful,Bhimpalasi
+Muscle Ache,Fast,Medium,Hopeful,Bhimpalasi
+Muscle Ache,Very Slow,Medium,Bright,Desh
+Anxiety,Medium,High,Hopeful,Yaman
+Insomnia,Slow,Medium,Bright,Shree
+Chronic Pain,Medium,High,Energetic,Nilambari
+Anxiety,Slow,Medium,Meditative,Kafi
+Anxiety,Fast,Medium,Sleepy,Yaman
+Insomnia,Slow,High,Meditative,Nilambari
+Muscle Ache,Fast,Medium,Energetic,Desh
+Stress,Fast,Low,Hopeful,Todi
+Chronic Pain,Very Slow,Medium,Calm,Shree
+Muscle Ache,Fast,Medium,Uplifting,Kafi
+Muscle Ache,Very Slow,Low,Energetic,Bhimpalasi
+Anxiety,Medium,Medium,Hopeful,Yaman
+Muscle Ache,Very Slow,High,Bright,Yaman
+Headache,Very Slow,Medium,Relaxed,Bhimpalasi
+Muscle Ache,Fast,Low,Uplifting,Desh
+Insomnia,Medium,High,Meditative,Nilambari
+Muscle Ache,Medium,Medium,Calm,Desh
+Muscle Ache,Slow,Low,Uplifting,Bhimpalasi
+Insomnia,Fast,Low,Sleepy,Nilambari
+Headache,Slow,Medium,Hopeful,Hamsadhwani
+Insomnia,Very Slow,High,Relaxed,Shree
+Anxiety,Fast,High,Bright,Madhyamavati
+Stress,Fast,Medium,Relaxed,Hamsadhwani
+Chronic Pain,Very Slow,Medium,Sleepy,Nilambari
+Headache,Very Slow,Low,Bright,Bhimpalasi
+Stress,Fast,High,Calm,Yaman
+Insomnia,Slow,High,Calm,Kafi
+Stress,Very Slow,High,Relaxed,Hamsadhwani
+Headache,Medium,High,Calm,Darbari Kanada
+Anxiety,Very Slow,High,Meditative,Hamsadhwani
+Anxiety,Slow,Medium,Uplifting,Yaman
+Headache,Very Slow,Medium,Uplifting,Kafi
+Anxiety,Medium,High,Calm,Yaman
+Muscle Ache,Fast,High,Bright,Bhimpalasi
+Insomnia,Slow,Medium,Bright,Kafi
+Stress,Slow,Medium,Calm,Kafi
+Stress,Fast,High,Calm,Hamsadhwani
+Headache,Fast,High,Calm,Darbari Kanada
+Muscle Ache,Very Slow,Medium,Calm,Desh
+Stress,Slow,Medium,Calm,Yaman
+Headache,Slow,Medium,Bright,Todi
+Stress,Slow,High,Uplifting,Yaman
+Headache,Medium,Medium,Energetic,Desh
+Headache,Very Slow,High,Relaxed,Bhimpalasi
+Chronic Pain,Medium,Low,Sleepy,Kafi
+Chronic Pain,Very Slow,Medium,Energetic,Yaman
+Headache,Medium,Medium,Relaxed,Bhimpalasi
+Insomnia,Slow,High,Uplifting,Bhimpalasi
+Muscle Ache,Very Slow,High,Hopeful,Hamsadhwani
+Muscle Ache,Medium,Medium,Energetic,Desh
+Stress,Very Slow,Low,Calm,Yaman
+Anxiety,Medium,High,Uplifting,Yaman
+Stress,Fast,Low,Energetic,Hamsadhwani
+Anxiety,Medium,High,Bright,Madhyamavati
+Chronic Pain,Fast,Low,Hopeful,Bhimpalasi
+Insomnia,Medium,Medium,Energetic,Todi
+Insomnia,Slow,High,Bright,Todi
+Chronic Pain,Very Slow,Medium,Sleepy,Todi
+Insomnia,Slow,Medium,Sleepy,Nilambari
+Headache,Fast,High,Energetic,Hamsadhwani
+Stress,Slow,Medium,Meditative,Desh
+Anxiety,Fast,High,Calm,Bhimpalasi
+Headache,Slow,Medium,Hopeful,Desh
+Stress,Medium,Low,Sleepy,Bhimpalasi
+Chronic Pain,Fast,Low,Energetic,Desh
+Anxiety,Slow,High,Sleepy,Yaman
+Headache,Fast,High,Hopeful,Kafi
+Muscle Ache,Very Slow,High,Uplifting,Bhimpalasi
+Stress,Medium,Low,Meditative,Todi
+Headache,Very Slow,High,Bright,Hamsadhwani
+Anxiety,Medium,Low,Sleepy,Desh
+Chronic Pain,Fast,Low,Bright,Todi
+Headache,Medium,High,Uplifting,Bhimpalasi
+Muscle Ache,Very Slow,Medium,Meditative,Todi
+Stress,Slow,Medium,Uplifting,Yaman
+Insomnia,Slow,Medium,Meditative,Nilambari
+Insomnia,Fast,High,Uplifting,Todi
+Anxiety,Slow,Medium,Calm,Desh
+Insomnia,Very Slow,Medium,Uplifting,Desh
+Muscle Ache,Slow,Low,Meditative,Todi
+Headache,Very Slow,High,Meditative,Todi
+Insomnia,Medium,High,Calm,Kafi
+Muscle Ache,Very Slow,Medium,Energetic,Kafi
+Muscle Ache,Medium,Low,Relaxed,Bhimpalasi
+Stress,Medium,Low,Meditative,Yaman
+Headache,Fast,Medium,Bright,Nilambari
+Chronic Pain,Very Slow,Medium,Energetic,Yaman
+Muscle Ache,Fast,High,Relaxed,Bhimpalasi
+Stress,Very Slow,Low,Sleepy,Shree
+Chronic Pain,Fast,Medium,Uplifting,Yaman
+Muscle Ache,Fast,Medium,Relaxed,Bhimpalasi
+Muscle Ache,Slow,High,Uplifting,Yaman
+Chronic Pain,Very Slow,Low,Calm,Shree
+Muscle Ache,Slow,Medium,Uplifting,Bhimpalasi
+Muscle Ache,Slow,Medium,Uplifting,Hamsadhwani
+Chronic Pain,Slow,Medium,Meditative,Todi
+Headache,Fast,Low,Meditative,Todi
+Muscle Ache,Medium,High,Meditative,Todi
+Anxiety,Slow,Medium,Calm,Yaman
+Headache,Fast,Low,Energetic,Nilambari
+Insomnia,Medium,High,Relaxed,Kafi
+Muscle Ache,Slow,Medium,Calm,Desh
+Insomnia,Fast,High,Meditative,Nilambari
+Headache,Slow,Medium,Bright,Shree
+Stress,Slow,Medium,Hopeful,Bhimpalasi
+Headache,Medium,Medium,Uplifting,Hamsadhwani
+Anxiety,Very Slow,Low,Bright,Madhyamavati
+Chronic Pain,Medium,High,Sleepy,Nilambari
+Chronic Pain,Very Slow,Low,Relaxed,Shree
+Insomnia,Medium,Medium,Sleepy,Nilambari
+Anxiety,Very Slow,Medium,Calm,Kafi
+Muscle Ache,Slow,Low,Meditative,Todi
+Chronic Pain,Fast,High,Energetic,Yaman
+Headache,Slow,Medium,Hopeful,Nilambari
+Headache,Fast,Low,Meditative,Todi
+Insomnia,Fast,Low,Uplifting,Desh
+Chronic Pain,Medium,High,Meditative,Todi
+Chronic Pain,Medium,High,Calm,Shree
+Chronic Pain,Very Slow,Low,Relaxed,Kafi
+Muscle Ache,Fast,High,Calm,Desh
+Headache,Slow,Low,Bright,Nilambari
+Muscle Ache,Slow,Low,Relaxed,Bhimpalasi
+Anxiety,Medium,High,Calm,Shree
+Stress,Very Slow,High,Energetic,Hamsadhwani
+Headache,Slow,Low,Energetic,Kafi
+Chronic Pain,Slow,High,Uplifting,Bhimpalasi
+Stress,Fast,Low,Bright,Madhyamavati
+Headache,Very Slow,Medium,Sleepy,Shree
+Stress,Medium,Medium,Uplifting,Yaman
+Anxiety,Very Slow,Low,Hopeful,Yaman
+Muscle Ache,Medium,High,Meditative,Todi
+Headache,Medium,Medium,Sleepy,Nilambari
+Stress,Slow,Medium,Uplifting,Yaman
+Stress,Slow,Low,Meditative,Yaman
+Headache,Medium,Low,Calm,Darbari Kanada
+Headache,Slow,Low,Hopeful,Hamsadhwani
+Chronic Pain,Medium,High,Sleepy,Shree
+Anxiety,Medium,High,Energetic,Todi
+Stress,Very Slow,Low,Uplifting,Yaman
+Chronic Pain,Slow,Medium,Bright,Bhimpalasi
+Headache,Very Slow,High,Energetic,Todi
+Headache,Slow,Low,Calm,Darbari Kanada
+Insomnia,Very Slow,High,Bright,Todi
+Headache,Medium,Low,Calm,Darbari Kanada
+Anxiety,Medium,High,Hopeful,Yaman
+Headache,Medium,Medium,Relaxed,Bhimpalasi
+Insomnia,Slow,Low,Meditative,Nilambari
+Stress,Slow,Medium,Energetic,Hamsadhwani
+Anxiety,Medium,Low,Bright,Madhyamavati
+Stress,Very Slow,Low,Hopeful,Shree
+Stress,Slow,High,Relaxed,Yaman
+Anxiety,Very Slow,High,Meditative,Yaman
+Headache,Medium,High,Meditative,Todi
+Insomnia,Medium,Low,Hopeful,Shree
+Muscle Ache,Fast,High,Calm,Desh
+Chronic Pain,Medium,Medium,Energetic,Todi
+Insomnia,Very Slow,High,Calm,Kafi
+Chronic Pain,Very Slow,Low,Hopeful,Yaman
+Insomnia,Slow,Low,Relaxed,Desh
+Insomnia,Very Slow,Medium,Relaxed,Hamsadhwani
+Anxiety,Very Slow,Low,Energetic,Nilambari
+Muscle Ache,Fast,Medium,Sleepy,Desh
+Muscle Ache,Slow,High,Calm,Desh
+Stress,Very Slow,Medium,Relaxed,Nilambari
+Insomnia,Fast,Low,Energetic,Bhimpalasi
+Anxiety,Very Slow,Medium,Energetic,Kafi
+Stress,Very Slow,Medium,Sleepy,Todi
+Chronic Pain,Medium,Medium,Energetic,Bhimpalasi
+Chronic Pain,Medium,Medium,Energetic,Shree
+Anxiety,Very Slow,Low,Energetic,Nilambari
+Anxiety,Very Slow,Low,Energetic,Nilambari
+Headache,Very Slow,Low,Sleepy,Shree
+Muscle Ache,Slow,High,Meditative,Todi
+Stress,Fast,Low,Relaxed,Nilambari
+Chronic Pain,Very Slow,Medium,Sleepy,Kafi
+Anxiety,Very Slow,Medium,Hopeful,Yaman
+Insomnia,Slow,High,Calm,Kafi
+Headache,Slow,Medium,Uplifting,Hamsadhwani
+Insomnia,Medium,High,Calm,Kafi
+Chronic Pain,Fast,Medium,Uplifting,Todi
+Chronic Pain,Fast,Medium,Meditative,Todi
+Anxiety,Fast,Medium,Bright,Madhyamavati
+Insomnia,Very Slow,High,Bright,Desh
+Muscle Ache,Slow,High,Calm,Desh
+Headache,Very Slow,High,Relaxed,Bhimpalasi
+Headache,Very Slow,Medium,Relaxed,Bhimpalasi
+Headache,Fast,Low,Sleepy,Shree
+Headache,Medium,Medium,Sleepy,Todi
+Headache,Slow,Medium,Meditative,Todi
+Muscle Ache,Medium,Medium,Meditative,Todi
+Anxiety,Fast,Medium,Sleepy,Kafi
+Insomnia,Medium,High,Hopeful,Shree
+Insomnia,Medium,Medium,Energetic,Bhimpalasi
+Headache,Medium,High,Hopeful,Hamsadhwani
+Anxiety,Slow,High,Calm,Shree
+Headache,Very Slow,Medium,Uplifting,Desh
+Muscle Ache,Slow,Low,Calm,Desh
+Stress,Fast,High,Uplifting,Yaman
+Stress,Slow,Low,Sleepy,Todi
+Insomnia,Fast,High,Sleepy,Nilambari
+Headache,Slow,High,Hopeful,Yaman
+Stress,Medium,Medium,Meditative,Shree
+Muscle Ache,Slow,High,Relaxed,Bhimpalasi
+Headache,Very Slow,High,Relaxed,Bhimpalasi
+Insomnia,Slow,Low,Bright,Bhimpalasi
+Insomnia,Very Slow,High,Uplifting,Kafi
+Headache,Very Slow,Low,Bright,Bhimpalasi
+Anxiety,Fast,Medium,Hopeful,Yaman
+Chronic Pain,Slow,Medium,Hopeful,Bhimpalasi
+Insomnia,Fast,High,Calm,Kafi
+Muscle Ache,Very Slow,Low,Relaxed,Bhimpalasi
+Chronic Pain,Fast,Medium,Energetic,Todi
+Muscle Ache,Fast,Medium,Bright,Bhimpalasi
+Stress,Slow,High,Sleepy,Kafi
+Stress,Fast,High,Relaxed,Nilambari
+Muscle Ache,Fast,Medium,Bright,Hamsadhwani
+Muscle Ache,Fast,Low,Sleepy,Desh
+Stress,Very Slow,Medium,Uplifting,Yaman
+Anxiety,Fast,Low,Bright,Madhyamavati
+Anxiety,Fast,Low,Bright,Madhyamavati
+Anxiety,Fast,High,Hopeful,Yaman
+Muscle Ache,Slow,Low,Bright,Todi
+Muscle Ache,Slow,Low,Sleepy,Yaman
+Chronic Pain,Slow,Low,Relaxed,Kafi
+Headache,Medium,Medium,Sleepy,Hamsadhwani
+Stress,Fast,Low,Hopeful,Yaman
+Muscle Ache,Fast,High,Sleepy,Hamsadhwani
+Muscle Ache,Fast,Low,Uplifting,Nilambari
+Headache,Medium,Low,Sleepy,Desh
+Anxiety,Very Slow,High,Sleepy,Shree
+Headache,Fast,Low,Calm,Darbari Kanada
+Chronic Pain,Slow,Medium,Relaxed,Hamsadhwani
+Insomnia,Very Slow,Low,Hopeful,Bhimpalasi
+Chronic Pain,Very Slow,High,Sleepy,Desh
+Muscle Ache,Very Slow,Low,Relaxed,Bhimpalasi
+Headache,Slow,High,Uplifting,Yaman
+Stress,Very Slow,Low,Calm,Todi
+Stress,Fast,High,Uplifting,Yaman
+Insomnia,Fast,Medium,Sleepy,Nilambari
+Headache,Fast,High,Calm,Darbari Kanada
+Insomnia,Very Slow,Low,Calm,Kafi
+Insomnia,Fast,Medium,Calm,Kafi
+Insomnia,Very Slow,Medium,Uplifting,Todi
+Anxiety,Medium,High,Relaxed,Nilambari
+Headache,Medium,Low,Energetic,Yaman
+Insomnia,Fast,Medium,Bright,Nilambari
+Stress,Slow,Medium,Bright,Madhyamavati
+Muscle Ache,Medium,High,Hopeful,Todi
+Insomnia,Very Slow,High,Uplifting,Shree
+Insomnia,Very Slow,Medium,Bright,Todi
+Insomnia,Slow,Medium,Calm,Kafi
+Stress,Medium,High,Calm,Kafi
+Muscle Ache,Medium,High,Energetic,Nilambari
+Headache,Slow,Low,Bright,Todi
+Stress,Fast,High,Sleepy,Nilambari
+Stress,Medium,High,Calm,Kafi
+Insomnia,Slow,Medium,Meditative,Nilambari
+Anxiety,Very Slow,High,Calm,Hamsadhwani
+Muscle Ache,Fast,High,Hopeful,Nilambari
+Muscle Ache,Slow,Medium,Meditative,Todi
+Insomnia,Medium,Medium,Calm,Kafi
+Headache,Slow,Medium,Relaxed,Bhimpalasi
+Anxiety,Very Slow,Medium,Meditative,Shree
+Stress,Fast,Medium,Sleepy,Kafi
+Stress,Medium,Low,Sleepy,Hamsadhwani
+Insomnia,Fast,Medium,Hopeful,Shree
+Headache,Medium,Low,Hopeful,Hamsadhwani
+Muscle Ache,Slow,Medium,Relaxed,Bhimpalasi
+Insomnia,Very Slow,Medium,Uplifting,Bhimpalasi
+Anxiety,Fast,Low,Hopeful,Yaman
+Anxiety,Very Slow,Low,Calm,Todi
+Chronic Pain,Very Slow,Low,Energetic,Desh
+Anxiety,Medium,Medium,Relaxed,Desh
+Stress,Very Slow,High,Meditative,Kafi
+Stress,Very Slow,High,Relaxed,Hamsadhwani
+Headache,Medium,Low,Bright,Yaman
+Headache,Very Slow,Low,Relaxed,Bhimpalasi
+Headache,Fast,Medium,Energetic,Bhimpalasi
+Stress,Medium,Medium,Sleepy,Todi
+Stress,Fast,Medium,Relaxed,Shree
+Muscle Ache,Slow,Medium,Uplifting,Kafi
+Stress,Fast,Medium,Calm,Todi
+Stress,Medium,Low,Calm,Kafi
+Chronic Pain,Slow,Medium,Uplifting,Nilambari
+Anxiety,Very Slow,Medium,Energetic,Desh
+Stress,Medium,Low,Energetic,Hamsadhwani
+Muscle Ache,Medium,High,Sleepy,Todi
+Anxiety,Very Slow,Low,Energetic,Yaman
+Stress,Very Slow,Medium,Sleepy,Desh
+Muscle Ache,Medium,Medium,Calm,Desh
+Headache,Slow,High,Energetic,Hamsadhwani
+Headache,Fast,Low,Sleepy,Hamsadhwani
+Headache,Very Slow,Low,Relaxed,Bhimpalasi
+Stress,Medium,Low,Sleepy,Yaman
+Anxiety,Very Slow,Medium,Calm,Hamsadhwani
+Chronic Pain,Fast,Medium,Relaxed,Yaman
+Muscle Ache,Fast,Low,Sleepy,Shree
+Insomnia,Very Slow,High,Uplifting,Bhimpalasi
+Muscle Ache,Very Slow,Low,Energetic,Shree
+Stress,Fast,High,Uplifting,Yaman
+Headache,Medium,Low,Uplifting,Shree
+Chronic Pain,Medium,High,Bright,Kafi
+Insomnia,Fast,Low,Relaxed,Yaman
+Muscle Ache,Fast,Low,Hopeful,Shree
+Chronic Pain,Very Slow,Low,Hopeful,Yaman
+Anxiety,Medium,Medium,Sleepy,Desh
+Muscle Ache,Slow,Low,Energetic,Nilambari
+Anxiety,Slow,Low,Sleepy,Shree
+Headache,Medium,Low,Meditative,Todi
+Chronic Pain,Very Slow,High,Energetic,Hamsadhwani
+Insomnia,Medium,High,Relaxed,Shree
+Anxiety,Very Slow,High,Energetic,Shree
+Muscle Ache,Very Slow,High,Meditative,Todi
+Headache,Fast,High,Energetic,Todi
+Stress,Medium,High,Relaxed,Kafi
+Chronic Pain,Fast,Medium,Relaxed,Bhimpalasi
+Stress,Very Slow,High,Meditative,Todi
+Headache,Slow,Low,Sleepy,Bhimpalasi
+Headache,Medium,High,Hopeful,Yaman
+Headache,Very Slow,Medium,Energetic,Desh
+Headache,Medium,Medium,Relaxed,Bhimpalasi
+Muscle Ache,Slow,Medium,Uplifting,Shree
+Chronic Pain,Slow,High,Hopeful,Nilambari
+Stress,Fast,Low,Hopeful,Desh
+Anxiety,Fast,High,Relaxed,Hamsadhwani
+Stress,Very Slow,Medium,Meditative,Desh
+Chronic Pain,Fast,High,Hopeful,Todi
+Insomnia,Slow,Medium,Calm,Kafi
+Stress,Very Slow,Low,Relaxed,Nilambari
+Chronic Pain,Medium,High,Meditative,Todi
+Headache,Medium,Low,Relaxed,Bhimpalasi
+Muscle Ache,Slow,High,Uplifting,Desh
+Headache,Medium,High,Calm,Darbari Kanada
+Anxiety,Medium,Medium,Calm,Nilambari
+Anxiety,Medium,Medium,Sleepy,Desh
+Stress,Fast,Low,Hopeful,Bhimpalasi
+Muscle Ache,Very Slow,High,Energetic,Desh
+Muscle Ache,Medium,Low,Bright,Desh
+Insomnia,Medium,High,Relaxed,Hamsadhwani
+Insomnia,Medium,High,Uplifting,Shree
+Chronic Pain,Medium,High,Sleepy,Todi
+Chronic Pain,Slow,Low,Uplifting,Desh
+Chronic Pain,Slow,Medium,Energetic,Hamsadhwani
+Anxiety,Very Slow,Low,Meditative,Shree
+Headache,Medium,High,Uplifting,Hamsadhwani
+Headache,Fast,High,Uplifting,Bhimpalasi
+Anxiety,Slow,Medium,Sleepy,Bhimpalasi
+Anxiety,Medium,High,Energetic,Shree
+Headache,Slow,Medium,Bright,Nilambari
+Anxiety,Medium,Low,Energetic,Shree
+Insomnia,Slow,High,Uplifting,Shree
+Muscle Ache,Slow,Medium,Sleepy,Shree
+Headache,Very Slow,Low,Sleepy,Desh
+Chronic Pain,Very Slow,Medium,Hopeful,Yaman
+Headache,Very Slow,High,Hopeful,Desh
+Insomnia,Very Slow,High,Sleepy,Nilambari
+Headache,Very Slow,Medium,Relaxed,Bhimpalasi
+Insomnia,Fast,High,Relaxed,Desh
+Chronic Pain,Slow,Medium,Sleepy,Shree
+Chronic Pain,Fast,Medium,Hopeful,Yaman
+Muscle Ache,Fast,High,Uplifting,Bhimpalasi
+Muscle Ache,Medium,High,Hopeful,Nilambari
+Headache,Very Slow,Low,Relaxed,Bhimpalasi
+Muscle Ache,Very Slow,High,Uplifting,Nilambari
+Muscle Ache,Fast,Medium,Calm,Desh
+Chronic Pain,Medium,Low,Sleepy,Shree
+Stress,Fast,Low,Bright,Madhyamavati
+Chronic Pain,Medium,Medium,Sleepy,Yaman
+Insomnia,Very Slow,Medium,Calm,Kafi
+Chronic Pain,Very Slow,High,Uplifting,Todi
+Stress,Very Slow,High,Calm,Shree
+Stress,Very Slow,Low,Uplifting,Yaman
+Insomnia,Fast,Medium,Calm,Kafi
+Stress,Fast,Low,Energetic,Hamsadhwani
+Muscle Ache,Medium,Low,Uplifting,Nilambari
+Stress,Slow,Low,Bright,Madhyamavati
+Insomnia,Slow,High,Uplifting,Kafi
+Anxiety,Slow,High,Energetic,Bhimpalasi
+Insomnia,Medium,Medium,Relaxed,Kafi
+Muscle Ache,Medium,High,Relaxed,Bhimpalasi
+Chronic Pain,Slow,Low,Sleepy,Kafi
+Muscle Ache,Slow,Low,Meditative,Todi
+Muscle Ache,Slow,Medium,Bright,Desh
+Muscle Ache,Fast,Low,Meditative,Todi
+Stress,Slow,Medium,Uplifting,Yaman
+Stress,Very Slow,Medium,Hopeful,Hamsadhwani
+Stress,Slow,Low,Hopeful,Desh
+Chronic Pain,Medium,Medium,Hopeful,Nilambari
+Muscle Ache,Slow,Low,Uplifting,Nilambari
+Anxiety,Fast,Low,Sleepy,Yaman
+Chronic Pain,Medium,High,Bright,Nilambari
+Insomnia,Fast,Medium,Meditative,Nilambari
+Chronic Pain,Slow,Medium,Bright,Nilambari
+Stress,Fast,Low,Relaxed,Nilambari
+Muscle Ache,Medium,Medium,Relaxed,Bhimpalasi
+Chronic Pain,Fast,Low,Energetic,Desh
+Muscle Ache,Fast,Medium,Sleepy,Todi
+Muscle Ache,Fast,High,Meditative,Todi
+Headache,Slow,Medium,Meditative,Todi
+Insomnia,Slow,Medium,Relaxed,Nilambari
+Muscle Ache,Fast,Low,Meditative,Todi
+Anxiety,Medium,Medium,Hopeful,Yaman
+Headache,Medium,Medium,Hopeful,Shree
+Headache,Fast,High,Uplifting,Hamsadhwani
+Headache,Fast,High,Sleepy,Yaman
+Muscle Ache,Very Slow,Low,Bright,Bhimpalasi
+Headache,Slow,High,Calm,Darbari Kanada
+Muscle Ache,Slow,Medium,Energetic,Desh
