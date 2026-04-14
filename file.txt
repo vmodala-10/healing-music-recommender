@@ -1,0 +1,2 @@
+This is updation from EC2 instance. To configure secure access to AWS CodeCommit 
+
